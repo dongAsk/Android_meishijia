@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">meishi</string>
+    <string name="quit"><u>游客预览</u></string>
+    <string name="login">登录</string>
+    <string name="app_title">美食家</string>
+    <string name="account">账号</string>
+    <string name="password">密码</string>
+    <string name="register"><u>还没账号?立即注册</u></string>
+</resources>
